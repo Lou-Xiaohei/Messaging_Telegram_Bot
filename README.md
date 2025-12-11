@@ -44,6 +44,7 @@ Python 3.10+
 1. 克隆项目
 
 git clone https://github.com/Lou-Xiaohei/Messaging_Telegram_Bot.git
+
 cd Messaging_Telegram_Bot
 
 2. 安装依赖
