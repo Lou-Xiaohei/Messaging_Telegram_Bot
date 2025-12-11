@@ -127,8 +127,11 @@ python bot.py
 
 telegram-relay-bot/
 ├── bot.py            # 机器人主程序
+
 ├── requirements.txt  # 依赖列表
+
 ├── .env.example      # 环境变量示例
+
 └── README.md         # 使用说明文档
 
 
