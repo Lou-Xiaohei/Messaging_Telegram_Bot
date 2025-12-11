@@ -1,3 +1,5 @@
+Messaging_Telegram_Bot使用代码都是ChatGPT AI生成
+
 📮 Telegram 双向转发机器人
 
 一个基于 Python的telegram-bot 的轻量级 “留言通讯” 机器人。
@@ -125,7 +127,7 @@ python bot.py
 
 📁 项目结构
 
-telegram-relay-bot/
+Messaging_Telegram_Bot/
 
 ├── bot.py            # 机器人主程序
 
