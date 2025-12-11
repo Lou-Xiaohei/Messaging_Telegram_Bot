@@ -33,7 +33,7 @@ Python 3.10+
 
 一个 Telegram Bot Token（通过 @BotFather 获取）
 
-管理员的 Telegram 用户 ID（可使用 @userinfobot 查询）
+管理员的 Telegram 用户 ID（可使用 @getidsbot 查询）
 
 
 
