@@ -126,6 +126,7 @@ python bot.py
 📁 项目结构
 
 telegram-relay-bot/
+
 ├── bot.py            # 机器人主程序
 
 ├── requirements.txt  # 依赖列表
